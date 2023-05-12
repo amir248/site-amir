@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/site-amir/static/css/main.b7cb3f16.css",
-    "main.js": "/site-amir/static/js/main.fc79e74c.js",
+    "main.css": "/site-amir/static/css/main.1c456027.css",
+    "main.js": "/site-amir/static/js/main.f3a4eb14.js",
     "static/js/787.5afe067e.chunk.js": "/site-amir/static/js/787.5afe067e.chunk.js",
     "static/media/amir.jpg": "/site-amir/static/media/amir.8ce0a780e4b011a7a537.jpg",
     "index.html": "/site-amir/index.html",
-    "main.b7cb3f16.css.map": "/site-amir/static/css/main.b7cb3f16.css.map",
-    "main.fc79e74c.js.map": "/site-amir/static/js/main.fc79e74c.js.map",
+    "main.1c456027.css.map": "/site-amir/static/css/main.1c456027.css.map",
+    "main.f3a4eb14.js.map": "/site-amir/static/js/main.f3a4eb14.js.map",
     "787.5afe067e.chunk.js.map": "/site-amir/static/js/787.5afe067e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7cb3f16.css",
-    "static/js/main.fc79e74c.js"
+    "static/css/main.1c456027.css",
+    "static/js/main.f3a4eb14.js"
   ]
 }
