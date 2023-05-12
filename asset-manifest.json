@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/site-amir/static/css/main.b7cb3f16.css",
-    "main.js": "/site-amir/static/js/main.dee1ebad.js",
+    "main.js": "/site-amir/static/js/main.c464ef26.js",
     "static/js/787.5afe067e.chunk.js": "/site-amir/static/js/787.5afe067e.chunk.js",
     "static/media/amir.jpg": "/site-amir/static/media/amir.8ce0a780e4b011a7a537.jpg",
     "index.html": "/site-amir/index.html",
     "main.b7cb3f16.css.map": "/site-amir/static/css/main.b7cb3f16.css.map",
-    "main.dee1ebad.js.map": "/site-amir/static/js/main.dee1ebad.js.map",
+    "main.c464ef26.js.map": "/site-amir/static/js/main.c464ef26.js.map",
     "787.5afe067e.chunk.js.map": "/site-amir/static/js/787.5afe067e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7cb3f16.css",
-    "static/js/main.dee1ebad.js"
+    "static/js/main.c464ef26.js"
   ]
 }
