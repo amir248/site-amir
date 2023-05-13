@@ -1,3 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
+Host: https://amir248.github.io/site-amir/
 User-agent: *
 Disallow:
