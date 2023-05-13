@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/site-amir/static/css/main.1c456027.css",
+    "main.js": "/site-amir/static/js/main.ba51178d.js",
+    "static/js/787.adb95b87.chunk.js": "/site-amir/static/js/787.adb95b87.chunk.js",
+    "static/media/amir.jpg": "/site-amir/static/media/amir.8ce0a780e4b011a7a537.jpg",
+    "index.html": "/site-amir/index.html",
+    "main.1c456027.css.map": "/site-amir/static/css/main.1c456027.css.map",
+    "main.ba51178d.js.map": "/site-amir/static/js/main.ba51178d.js.map",
+    "787.adb95b87.chunk.js.map": "/site-amir/static/js/787.adb95b87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c456027.css",
+    "static/js/main.ba51178d.js"
+  ]
+}
